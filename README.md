@@ -1,4 +1,4 @@
-https://cdn.jsdelivr.net/gh/Ajinkgupta/ajinkgupta@main/undraw-image.png<h1 align="center">Hi 👋, I'm <a href="https://ajinkgupta.github.io/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://ajinkgupta.github.io/" target="blank">
 Ajink</a></h1>
 <h3 align="center">A passionate Web developer from Thane , India &#127470;&#127475</h3>
 
