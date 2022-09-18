@@ -1,4 +1,4 @@
-github-spray -f patterns/ajink.json
+
 
 <h1 align="center">Hi 👋, I'm <a href="https://ajinkgupta.github.io/" target="blank">
 Ajink</a></h1>
