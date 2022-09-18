@@ -53,12 +53,12 @@ Ajink</a></h1>
 </p>
 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Ajinkgupta/Tailblog"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ajinkgupta&repo=Tailblog&theme=react&bg_color=1F222E&title_color=#purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   
    <a href="https://github.com/Ajinkgupta/docs-frontend"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ajinkgupta&repo=docs-frontend&theme=react&bg_color=1F222E&title_color=#purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    
-     <a href="https://github.com/Ajinkgupta/ajinkgupta.github.io"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ajinkgupta&repo=ajinkgupta.github.io&theme=react&bg_color=1F222E&title_color=#purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    
 	
 </p>
 
