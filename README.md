@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://ajinkgupta.github.io/" target="blank">
 Ajink</a></h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&size=30&pause=1000&color=D81EF7&width=435&lines=Welcome+to+My+Profile;Always+Learning+New+Things;Building+Projects+with+PHP+%2C+React+%26+Tailwind;+Full+Stack+web+developer)](https://git.io/typing-svg)
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&pause=1000&color=D81EF7&width=435&lines=Welcome+to+My+Profile;Always+Learning+New+Things;Building+Projects+with+PHP+%2C+React+%26+Tailwind;+Full+Stack+web+developer" alt="Typing SVG" /></a>
 
 <h3 align="center">A passionate Web developer from Thane , India &#127470;&#127475</h3>
 
