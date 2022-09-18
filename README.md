@@ -58,7 +58,7 @@ Ajink</a></h1>
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
  
 <p align="center">
-  <a href="https://github.com/Ajinkgupta/Tailblog"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ajinkgupta&repo=Tailblog&theme=react&bg_color=1F222E&title_color=#purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> <a href="https://github.com/Ajinkgupta/docs-frontend"  ><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ajinkgupta&repo=docs-frontend&theme=react&bg_color=1F222E&title_color=#purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a></a> <a href="https://github.com/Ajinkgupta/khoj"  ><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ajinkgupta&repo=khoj&theme=react&bg_color=1F222E&title_color=#purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/Ajinkgupta/Tailblog"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ajinkgupta&repo=Tailblog&theme=react&bg_color=1F222E&title_color=#purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> <a href="https://github.com/Ajinkgupta/docs-frontend"  ><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ajinkgupta&repo=docs-frontend&theme=react&bg_color=1F222E&title_color=#purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> 
  	
 </p>
 
