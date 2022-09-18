@@ -63,4 +63,9 @@ Ajink</a></h1>
 </p></center>
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkgupta&" alt="My streak" />
+## 🔥 Streak stats 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Ajinks streak" alt="Ajinks streak" src="https://streak-stats.demolab.com/?user=ajinkgupta&theme=monokai-metallian&hide_border=true"/>
+  </a> 
+</p>
