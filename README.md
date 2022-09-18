@@ -56,11 +56,11 @@ Ajink</a></h1>
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<center>
-<p align="left">
+ 
+<p align="center">
   <a href="https://github.com/Ajinkgupta/Tailblog"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ajinkgupta&repo=Tailblog&theme=react&bg_color=1F222E&title_color=#purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> <a href="https://github.com/Ajinkgupta/docs-frontend"  ><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ajinkgupta&repo=docs-frontend&theme=react&bg_color=1F222E&title_color=#purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
  	
-</p></center>
+</p>
 
 
 ## 🔥 Streak stats 
