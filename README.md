@@ -72,14 +72,8 @@ Ajink</a></h1>
 
 ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Ajinkgupta&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ajink's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkgupta&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
- 
-</details>
+| ![Ajink's github stats](https://github-readme-stats.vercel.app/api?username=ajinkgupta&amp;show_icons=true&amp;theme=github_dark) | ![Ajink's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajinkgupta&amp;theme=github-dark-blue	) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkgupta&amp;theme=github_dark) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ajinkgupta&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=github_dark) |
 
- <img alt="Activity Graph" width="100%" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ajinkgupta" />
+[![Ajink's github activity graph](https://activity-graph.herokuapp.com/graph?username=ajinkgupta&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
