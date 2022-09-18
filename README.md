@@ -69,3 +69,17 @@ Ajink</a></h1>
     <img title="🔥 Ajinks streak" alt="Ajinks streak" src="https://streak-stats.demolab.com/?user=ajinkgupta&theme=monokai-metallian&hide_border=true"/>
   </a> 
 </p>
+
+## 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Ajinkgupta&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ajink's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkgupta&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+ 
+</details>
+
+ <img alt="Activity Graph" width="100%" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ajinkgupta" />
