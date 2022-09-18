@@ -14,7 +14,7 @@ Ajink</a></h1>
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ajinkgupta?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   
   <a href="https://github.com/ajinkgupta">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=ajinkgupta&label=Profile%20views&color=0e75b6&style=for-the-badge"/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=ajinkgupta&label=Profile%20views&color=0e75b6&style=for-the-badge" /></a>
 </p>
 
 <hr>
