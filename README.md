@@ -76,4 +76,4 @@ Ajink</a></h1>
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkgupta&amp;theme=github_dark) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ajinkgupta&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=github_dark) |
 
-|[![Ajink's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ajinkgupta&bg_color=000000&color=ffffff&line=ff4d00&point=00eeff&area=true&hide_border=true)]()|
+| [![Ajink's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ajinkgupta&bg_color=000000&color=ffffff&line=ff4d00&point=00eeff&area=true&hide_border=true)]() |
