@@ -52,7 +52,7 @@ Ajink</a></h1>
 
 </p>
 
-## projects
+## 📕 Projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
