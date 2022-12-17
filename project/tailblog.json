@@ -1,0 +1,10 @@
+{
+"name":"TailBlog",
+         "image":"https://ajinkgupta.me/ajinkgupta/project/image/tailblog-imag.png",
+         "slug":"tailblog",
+         "live":"http://tailblog.ezyro.com/",
+         "github":"https://github.com/Ajinkgupta/Tailblog",
+        "description":"Tailblog is a Free Blogging CMS built with PHP , Tailwind and MySQL",
+         "readme":"",
+         "yt":""
+}
