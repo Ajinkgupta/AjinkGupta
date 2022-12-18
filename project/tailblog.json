@@ -5,6 +5,13 @@
          "live":"http://tailblog.ezyro.com/",
          "github":"https://github.com/Ajinkgupta/Tailblog",
         "description":"Tailblog is a Free Blogging CMS built with PHP , Tailwind and MySQL",
-         "readme":" ",
+         "readme":"  <p><strong>Tailblog<\/strong> is an open source   Blogging Platform  written in PHP.<br>You do not need to use a VPS to run Tailblog , shared hosting or even free hosting should work as long as the host supports at least PHP 5.3.<\/p>
+<p>(main project will be ready soon)</p>
+<h3 id=\"features\">Features<\/h3>
+<hr>
+<ul>
+<li>Admin Panel (added)<\/li>
+<li>WYSIWYG editor <\/li>
+<li>Categorization with category <\/li>",
          "yt":""
 }
