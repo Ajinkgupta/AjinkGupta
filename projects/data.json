@@ -13,7 +13,7 @@
          "slug":"svelte-portfolio",
          "live":"https://ajinkgupta.netlify.app",
          "github":"https://github.com/Ajinkgupta/svelte-portfolio",
-        "description":"A simple structured Portfoilo made with svelte & tailwind features blog from dev.to , github profile api , project rest api built on github",
+        "description":"A simple structured Portfoilo made with svelte & tailwind features blog from dev.to , github profile api , project rest api built on github"
          
     } 
   ]
