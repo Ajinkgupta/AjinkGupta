@@ -6,5 +6,15 @@
          "live":"http://tailblog.ezyro.com/",
          "github":"https://github.com/Ajinkgupta/Tailblog",
         "description":"Tailblog is a Free Blogging CMS built with PHP , Tailwind and MySQL"
+    },
+     {
+      "name":"Svelte Portfolio",
+         "image":"https://cdn.jsdelivr.net/gh/Ajinkgupta/ajinkgupta@main/project/image/svelte-portfolio.png",
+         "slug":"svelte-portfolio",
+         "live":"https://ajinkgupta.netlify.app",
+         "github":"https://github.com/Ajinkgupta/svelte-portfolio",
+        "description":"A simple structured Portfoilo made with svelte & tailwind features blog from dev.to , github profile api , project rest api built on github",
+         
     } 
   ]
+ 
