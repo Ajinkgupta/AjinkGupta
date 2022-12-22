@@ -15,6 +15,15 @@
          "github":"https://github.com/Ajinkgupta/svelte-portfolio",
         "description":"A simple structured Portfoilo made with svelte & tailwind features blog from dev.to , github profile api , project rest api built on github"
          
+    },
+     {
+      "name":"Cryptway V2",
+         "image":"https://cdn.jsdelivr.net/gh/Ajinkgupta/ajinkgupta@main/project/image/cryptway.png",
+         "slug":"cryptway-v2",
+         "live":"https://cryptwayapp.netlify.app/",
+         "github":"https://github.com/Ajinkgupta/cryptway",
+        "description":"Crypto Transaction Platform using external wallet"
+         
     } 
   ]
  
