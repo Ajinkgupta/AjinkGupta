@@ -18,7 +18,8 @@ Ajink</a></h1>
 </p>
 
 <hr> 
-![visitors](https://count.getloli.com/get/@ajinkgupta.github.readme)
+
+ ![visitors](https://count.getloli.com/get/@ajinkgupta.github.readme)
 
 ### 🛠 Frameworks and Tools I'm interested in
 
