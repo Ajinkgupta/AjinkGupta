@@ -17,9 +17,7 @@ Ajink</a></h1>
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=ajinkgupta&label=Profile%20views&color=0e75b6&style=for-the-badge" /></a>
 </p>
 
-<hr> 
-
- ![visitors](https://count.getloli.com/get/@ajinkgupta.github.readme)
+<hr>  
 
 ### 🛠 Frameworks and Tools I'm interested in
 
