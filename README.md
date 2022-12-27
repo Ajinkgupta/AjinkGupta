@@ -39,8 +39,7 @@ Ajink</a></h1>
 ### ⚙️ Github Analytics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajinkgupta&show_icons=true&theme=radical&hide_border=true&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkgupta&theme=radical&hide_border=true" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkgupta&layout=compact&theme=radical&hide_border=true&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkgupta&theme=radical&hide_border=true" /> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajinkgupta&theme=radical" /> 
 </p>
 
