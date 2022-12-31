@@ -30,8 +30,7 @@ Ajink</a></h1>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" /></a>
 <a href="https://github.com"> <img src="https://svgshare.com/i/gVT.svg" width="48" height="48"/></a>
-<a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="48" height="48" /></a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" /></a>
+<a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="48" height="48" /></a> </a>
 
 ### 📈 Github Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ajinkgupta&theme=react-dark&hide_border=true)
