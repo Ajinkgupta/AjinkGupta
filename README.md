@@ -39,8 +39,7 @@ Ajink</a></h1>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajinkgupta&show_icons=true&theme=radical&hide_border=true&show_icons=true" />
  
-    ![GitHub Streak](https://streak-stats.demolab.com/?user=ajinkgupta)
- 
+ ![streak](https://streak-stats.demolab.com/?user=ajinkgupta)
  
  
  
