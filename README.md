@@ -36,11 +36,13 @@ Ajink</a></h1>
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ajinkgupta&theme=react-dark&hide_border=true)
 
 ### ⚙️ Github Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajinkgupta&show_icons=true&theme=radical&hide_border=true&show_icons=true" />
  
- [![GitHub Streak](https://streak-stats.demolab.com/?user=ajinkgupta)](https://git.io/streak-stats)
+    ![GitHub Streak](https://streak-stats.demolab.com/?user=ajinkgupta)
  
- <p align="center">
-
+ 
+ 
  
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajinkgupta&theme=radical" /> 
 </p>
