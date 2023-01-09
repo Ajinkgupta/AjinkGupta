@@ -34,12 +34,11 @@ Ajink</a></h1>
 ### ⚙️ Github Analytics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajinkgupta&show_icons=true&theme=radical&hide_border=true&show_icons=true" />
+   <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajinkgupta&theme=radical" />
 
  ![streak](https://streak-stats.demolab.com/?user=ajinkgupta)
 
-
-
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajinkgupta&theme=radical" /> 
+ 
 </p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg) 
