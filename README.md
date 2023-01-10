@@ -4,8 +4,7 @@
 Ajink</a></h1>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&duration=4000&pause=1000&color=blue&center=true&width=600&height=100&lines=Welcome+to+My+Profile;Always+Learning+New+Things;+PHP+%2C+React+%2CCSS%2C+Tailwind;+Full+Stack+web+developer" width="100%" alt="Typing SVG" /></a>
 
-<h3 align="center">A passionate Web developer from Thane , India &#127470;&#127475</h3>
-
+ 
 <p align="center">
   <a href="https://www.youtube.com/c/Ajinkgupta?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCjKz-2jaskjyyDOqGdVFsvg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
