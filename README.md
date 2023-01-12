@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm <a href="https://ajinkgupta.github.io/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://ajinkgupta.me/" target="blank">
 Ajink</a></h1>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&duration=4000&pause=1000&color=blue&center=true&width=600&height=100&lines=Welcome+to+My+Profile;Always+Learning+New+Things;+PHP+%2C+React+%2CCSS%2C+Tailwind;+Full+Stack+web+developer" width="100%" alt="Typing SVG" /></a>
 
