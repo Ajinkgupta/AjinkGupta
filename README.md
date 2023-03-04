@@ -18,9 +18,9 @@ Ajink Gupta </h1>
 <hr>   
  
 ## About Me
-🌱 I'm currently learning  Python , Flutter  
-💬 Ask me about Web & App Development
-📫 How to reach me:  guptaajink21@gmail.com 
+- 🌱 I'm currently learning  Python , Flutter  
+- 💬 Ask me about Web & App Development
+- 📫 How to reach me:  guptaajink21@gmail.com 
 
 
 ## 🌐  Connect with me:
