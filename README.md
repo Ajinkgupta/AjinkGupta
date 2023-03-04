@@ -1,9 +1,8 @@
 
-
-<h1 align="center">Hi 👋, I'm <a href="https://ajinkgupta.me/" target="blank">
-Ajink</a></h1>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&duration=4000&pause=1000&color=blue&center=true&width=600&height=100&lines=Welcome+to+My+Profile;Always+Learning+New+Things;+PHP+%2C+React+%2CCSS%2C+Flutter;+Full+Stack+developer" width="100%" alt="Typing SVG" /></a>
-
+<h1 align="center">Hi there 👋 , I'm  
+Ajink Gupta </h1>
+<hr/>
+ I am an engineering student currently pursuing a degree in Artificial Intelligence and Data Science from Datta Meghe College of Engineering. I have strong technical skills in Full Stack Web Development, Android App Development, and Programming Languages such as C, C++, Python, and Java.  I am passionate about exploring new technologies and contributing to the tech community.
  
 <p align="center">
   <a href="https://www.youtube.com/c/Ajinkgupta?sub_confirmation=1">
@@ -18,10 +17,20 @@ Ajink</a></h1>
  
 <hr>   
  
+## About Me
+🌱 I'm currently learning  Python , Flutter  
+💬 Ask me about Web & App Development
+📫 How to reach me:  guptaajink21@gmail.com 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajinkgupta) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ajinkgupta) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ajinkgupta) 
+## 🌐  Connect with me:
+<p align="left">
+<a href="https://dev.to/ajinkgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ajinkgupta" height="30" width="40" /></a>
+<a href="https://twitter.com/ajinkgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajinkgupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajinkgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajinkgupta" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/<ajinkgupta>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<ajinkgupta>/profile" height="30" width="40" /></a>
+</p>
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
