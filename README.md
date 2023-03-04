@@ -3,7 +3,7 @@
 Ajink Gupta </h1>
 <hr/>
  I am an engineering student currently pursuing a degree in Artificial Intelligence and Data Science from Datta Meghe College of Engineering. I have strong technical skills in Full Stack Web Development, Android App Development, and Programming Languages such as C, C++, Python, and Java.  I am passionate about exploring new technologies and contributing to the tech community.
- 
+ <br/><br/>
 <p align="center">
   <a href="https://www.youtube.com/c/Ajinkgupta?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCjKz-2jaskjyyDOqGdVFsvg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
