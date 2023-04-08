@@ -36,10 +36,13 @@ int main() {
     printf("%d %d\n", C[1][0], C[1][1]);
 
     return 0;
-}```
+}
+
+```
 
 
 Output
+
 ```
 Matrix A:
 1 2
@@ -86,6 +89,7 @@ int main() {
 
     return 0;
 }
+
 ```
 
 Output :
@@ -140,6 +144,7 @@ int main() {
 }
 ```
 output:
+```
 Matrix A:
 1 2 3
 4 5 6
@@ -213,7 +218,7 @@ Determinant of matrix A: 16
 
 ### Finding the transpose of a matrix
 
-```c
+```
 #include <stdio.h>
 
 int main() {
@@ -254,7 +259,7 @@ Transpose of matrix A:
 ```
 
 
- ### Finding the inverse of a matrix
+### Finding the inverse of a matrix
 The identity matrix is a square matrix that has ones along its diagonal and zeros elsewhere. The inverse of a matrix can be used to solve systems of linear equations, among other things. 
 
 ```
