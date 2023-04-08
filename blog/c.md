@@ -263,6 +263,69 @@ Transpose of matrix A:
 The identity matrix is a square matrix that has ones along its diagonal and zeros elsewhere. The inverse of a matrix can be used to solve systems of linear equations, among other things. 
 
 ```
+#include <stdio.h>
+
+float determinant(float matrix[3][3]) {
+    return matrix[0][0]*(matrix[1][1]*matrix[2][2]-matrix[2][1]*matrix[1][2]) - 
+           matrix[0][1]*(matrix[1][0]*matrix[2][2]-matrix[1][2]*matrix[2][0]) + 
+           matrix[0][2]*(matrix[1][0]*matrix[2][1]-matrix[1][1]*matrix[2][0]);
+}
+
+void inverse(float matrix[3][3], float inverse[3][3]) {
+    float det = determinant(matrix);
+    if (det == 0) {
+        printf("Matrix is not invertible.");
+        return;
+    }
+
+    for (int i = 0; i < 3; i++) {
+        for (int j = 0; j < 3; j++) {
+            float minor[2][2] = {0};
+            for (int k = 0; k < 3; k++) {
+                for (int l = 0; l < 3; l++) {
+                    if (k < i && l < j) {
+                        minor[0][0] = matrix[k][l];
+                    } else if (k < i && l > j) {
+                        minor[0][1] = matrix[k][l];
+                    } else if (k > i && l < j) {
+                        minor[1][0] = matrix[k][l];
+                    } else if (k > i && l > j) {
+                        minor[1][1] = matrix[k][l];
+                    }
+                }
+            }
+            inverse[j][i] = ((i+j)%2 == 0 ? 1 : -1) * determinant(minor) / det;
+        }
+    }
+}
+
+int main() {
+    float matrix[3][3] = {{2, 3, 1}, {1, 1, 1}, {1, 2, 2}};
+    float inverseMatrix[3][3] = {0};
+
+    inverse(matrix, inverseMatrix);
+
+    printf("Matrix:\n");
+    for (int i = 0; i < 3; i++) {
+        for (int j = 0; j < 3; j++) {
+            printf("%f ", matrix[i][j]);
+        }
+        printf("\n");
+    }
+
+    printf("\nInverse matrix:\n");
+    for (int i = 0; i < 3; i++) {
+        for (int j = 0; j < 3; j++) {
+            printf("%f ", inverseMatrix[i][j]);
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
+
 
 ```
+
+In conclusion, matrix operations such as addition, subtraction, multiplication, and finding the inverse are essential in various fields, including mathematics, physics, engineering, and computer science. The C programming language provides efficient and easy-to-use tools for implementing matrix operations. By using arrays and loops, we can write programs to perform matrix operations quickly and accurately. With the examples and code snippets provided above, you can now start working on your matrix problems in C.
 
