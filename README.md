@@ -62,7 +62,4 @@ Ajink Gupta </h1>
   
 
  
-</p>
-
-![](./profile-3d-contrib/profile-gitblock.svg) 
-<hr> 
+</p> 
