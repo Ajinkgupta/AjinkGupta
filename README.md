@@ -22,8 +22,7 @@ Here are some of the technologies and tools I've worked with:
 
 **Programming languages ⛰️** 
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) 
@@ -63,7 +62,7 @@ Here are some of the technologies and tools I've worked with:
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/)
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)](https://brave.com/)
 
-**Blockchain ⛓️** 
+<!-- **Blockchain ⛓️** 
 
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
 [![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
@@ -72,7 +71,7 @@ Here are some of the technologies and tools I've worked with:
 [![Hardhat](https://img.shields.io/badge/Hardhat-DEA584?style=for-the-badge&logo=hardhat&logoColor=white)](https://hardhat.org/)
 [![Truffle](https://img.shields.io/badge/Truffle-3C3C3D?style=for-the-badge&logo=truffle&logoColor=white)](https://www.trufflesuite.com/)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/)
-[![NFT](https://img.shields.io/badge/NFT-0078FF?style=for-the-badge&logo=nft&logoColor=white)](https://opensea.io/)
+[![NFT](https://img.shields.io/badge/NFT-0078FF?style=for-the-badge&logo=nft&logoColor=white)](https://opensea.io/) -->
 
 ## 🌱 Current Projects
 
