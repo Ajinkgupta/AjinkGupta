@@ -22,13 +22,12 @@ Here are some of the technologies and tools I've worked with:
 
 **Programming languages ⛰️** 
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) 
 
 **Mobile app development 📱**
-
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+ 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 
 **Web development 🌍**
@@ -58,8 +57,6 @@ Here are some of the technologies and tools I've worked with:
 
 [![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
 [![Ethers.js](https://img.shields.io/badge/Ethers.js-276FD6?style=for-the-badge&logo=ethers-dot-js&logoColor=white)](https://docs.ethers.io/)
-[![Hardhat](https://img.shields.io/badge/Hardhat-DEA584?style=for-the-badge&logo=hardhat&logoColor=white)](https://hardhat.org/)
-[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/)
  
 ## 🌱 Current Projects
 
