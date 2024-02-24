@@ -76,7 +76,7 @@ If you'd like to get in touch, feel free to send me a message
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkgupta/)
 [![Youtube](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCjKz-2jaskjyyDOqGdVFsvg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/c/Ajinkgupta?sub_confirmation=1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaajink21@gmail.com)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ajinkgupta.me/)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ajinkgupta.vercel.app/)
 
 
 Thanks for checking out my profile!
