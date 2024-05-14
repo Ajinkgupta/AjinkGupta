@@ -1,7 +1,6 @@
 # Hi there! 👋
-![Banner Image](./uploads/github-banner.png)
-
-I'm Ajink , a undergrad student and freelance web developer  with a passion for building high-quality software that makes a positive impact. I love exploring new technologies, and I'm always looking for new ways to improve my skills and learn from others.
+ 
+I'm Ajink  
 
 ## 🧐 About 
 
