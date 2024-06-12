@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.4",
   "export_version": 1,
   "date": 1718214844,
   "questions": [
     {
       "sort": 1,
       "title": "Question: 1",
-      "question": "What is the antonym of 'abundant'?",
+      "question": "Choose the antonym for 'benevolent.'",
       "correct_msg": "",
       "incorrect_msg": "",
       "answer_type": "single",
@@ -22,7 +22,7 @@
       "matrix_sort_answer_criteria_width": 20,
       "answer_data": [
         {
-          "answer": "Plentiful",
+          "answer": "Kind",
           "html": false,
           "points": 1,
           "correct": false,
@@ -30,7 +30,7 @@
           "sort_string_html": false
         },
         {
-          "answer": "Sparse",
+          "answer": "Cruel",
           "html": false,
           "points": 1,
           "correct": true,
@@ -50,7 +50,7 @@
     {
       "sort": 2,
       "title": "Question: 2",
-      "question": "Identify the term that means 'a great misfortune or disaster'.",
+      "question": "Identify the word that means 'a sudden and violent overthrow of a government.'",
       "correct_msg": "",
       "incorrect_msg": "",
       "answer_type": "single",
@@ -66,7 +66,7 @@
       "matrix_sort_answer_criteria_width": 20,
       "answer_data": [
         {
-          "answer": "Calamity",
+          "answer": "Revolution",
           "html": false,
           "points": 1,
           "correct": true,
@@ -74,7 +74,7 @@
           "sort_string_html": false
         },
         {
-          "answer": "Euphoria",
+          "answer": "Stability",
           "html": false,
           "points": 1,
           "correct": false,
@@ -82,7 +82,7 @@
           "sort_string_html": false
         },
         {
-          "answer": "Fortune",
+          "answer": "Democracy",
           "html": false,
           "points": 1,
           "correct": false,
@@ -94,7 +94,7 @@
     {
       "sort": 3,
       "title": "Question: 3",
-      "question": "Choose the correct spelling of a word that means 'capable of being believed'.",
+      "question": "What is the correct spelling of a word that means 'extremely careful and precise'?",
       "correct_msg": "",
       "incorrect_msg": "",
       "answer_type": "single",
@@ -110,7 +110,7 @@
       "matrix_sort_answer_criteria_width": 20,
       "answer_data": [
         {
-          "answer": "Credible",
+          "answer": "Meticulous",
           "html": false,
           "points": 1,
           "correct": true,
@@ -118,7 +118,7 @@
           "sort_string_html": false
         },
         {
-          "answer": "Credable",
+          "answer": "Metikulous",
           "html": false,
           "points": 1,
           "correct": false,
@@ -126,7 +126,7 @@
           "sort_string_html": false
         },
         {
-          "answer": "Credibal",
+          "answer": "Metticulous",
           "html": false,
           "points": 1,
           "correct": false,
@@ -138,7 +138,7 @@
     {
       "sort": 4,
       "title": "Question: 4",
-      "question": "Select the word that is most similar in meaning to 'adamant'.",
+      "question": "Select the word that is most similar in meaning to 'ubiquitous.'",
       "correct_msg": "",
       "incorrect_msg": "",
       "answer_type": "single",
@@ -154,7 +154,7 @@
       "matrix_sort_answer_criteria_width": 20,
       "answer_data": [
         {
-          "answer": "Flexible",
+          "answer": "Rare",
           "html": false,
           "points": 1,
           "correct": false,
@@ -162,18 +162,18 @@
           "sort_string_html": false
         },
         {
-          "answer": "Stubborn",
+          "answer": "Scarce",
+          "html": false,
+          "points": 1,
+          "correct": false,
+          "sort_string": "",
+          "sort_string_html": false
+        },
+        {
+          "answer": "Everywhere",
           "html": false,
           "points": 1,
           "correct": true,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Yielding",
-          "html": false,
-          "points": 1,
-          "correct": false,
           "sort_string": "",
           "sort_string_html": false
         }
@@ -182,271 +182,7 @@
     {
       "sort": 5,
       "title": "Question: 5",
-      "question": "What is the opposite of 'optimistic'?",
-      "correct_msg": "",
-      "incorrect_msg": "",
-      "answer_type": "single",
-      "correct_same_text": false,
-      "tip_enabled": false,
-      "tip_msg": "",
-      "points": 1,
-      "show_points_in_box": false,
-      "answer_points_activated": false,
-      "category_name": "",
-      "answer_points_diff_modus_activated": false,
-      "disable_correct": false,
-      "matrix_sort_answer_criteria_width": 20,
-      "answer_data": [
-        {
-          "answer": "Hopeful",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Pessimistic",
-          "html": false,
-          "points": 1,
-          "correct": true,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Cheerful",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        }
-      ]
-    },
-    {
-      "sort": 6,
-      "title": "Question: 6",
-      "question": "Choose the word that correctly completes the sentence: The scientist made a ______ discovery that changed the course of research.",
-      "correct_msg": "",
-      "incorrect_msg": "",
-      "answer_type": "single",
-      "correct_same_text": false,
-      "tip_enabled": false,
-      "tip_msg": "",
-      "points": 1,
-      "show_points_in_box": false,
-      "answer_points_activated": false,
-      "category_name": "",
-      "answer_points_diff_modus_activated": false,
-      "disable_correct": false,
-      "matrix_sort_answer_criteria_width": 20,
-      "answer_data": [
-        {
-          "answer": "Trivial",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Groundbreaking",
-          "html": false,
-          "points": 1,
-          "correct": true,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Common",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        }
-      ]
-    },
-    {
-      "sort": 7,
-      "title": "Question: 7",
-      "question": "Identify the word that means 'to examine carefully and in detail'.",
-      "correct_msg": "",
-      "incorrect_msg": "",
-      "answer_type": "single",
-      "correct_same_text": false,
-      "tip_enabled": false,
-      "tip_msg": "",
-      "points": 1,
-      "show_points_in_box": false,
-      "answer_points_activated": false,
-      "category_name": "",
-      "answer_points_diff_modus_activated": false,
-      "disable_correct": false,
-      "matrix_sort_answer_criteria_width": 20,
-      "answer_data": [
-        {
-          "answer": "Overlook",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Scrutinize",
-          "html": false,
-          "points": 1,
-          "correct": true,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Neglect",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        }
-      ]
-    },
-    {
-      "sort": 8,
-      "title": "Question: 8",
-      "question": "Which word is closest in meaning to 'loquacious'?",
-      "correct_msg": "",
-      "incorrect_msg": "",
-      "answer_type": "single",
-      "correct_same_text": false,
-      "tip_enabled": false,
-      "tip_msg": "",
-      "points": 1,
-      "show_points_in_box": false,
-      "answer_points_activated": false,
-      "category_name": "",
-      "answer_points_diff_modus_activated": false,
-      "disable_correct": false,
-      "matrix_sort_answer_criteria_width": 20,
-      "answer_data": [
-        {
-          "answer": "Silent",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Talkative",
-          "html": false,
-          "points": 1,
-          "correct": true,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Reserved",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        }
-      ]
-    },
-    {
-      "sort": 9,
-      "title": "Question: 9",
-      "question": "Which of the following is a synonym for 'benevolent'?",
-      "correct_msg": "",
-      "incorrect_msg": "",
-      "answer_type": "single",
-      "correct_same_text": false,
-      "tip_enabled": false,
-      "tip_msg": "",
-      "points": 1,
-      "show_points_in_box": false,
-      "answer_points_activated": false,
-      "category_name": "",
-      "answer_points_diff_modus_activated": false,
-      "disable_correct": false,
-      "matrix_sort_answer_criteria_width": 20,
-      "answer_data": [
-        {
-          "answer": "Malevolent",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Kind",
-          "html": false,
-          "points": 1,
-          "correct": true,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Indifferent",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        }
-      ]
-    },
-    {
-      "sort": 10,
-      "title": "Question: 10",
-      "question": "Which of these words means 'inclined to quarrel or fight readily'?",
-      "correct_msg": "",
-      "incorrect_msg": "",
-      "answer_type": "single",
-      "correct_same_text": false,
-      "tip_enabled": false,
-      "tip_msg": "",
-      "points": 1,
-      "show_points_in_box": false,
-      "answer_points_activated": false,
-      "category_name": "",
-      "answer_points_diff_modus_activated": false,
-      "disable_correct": false,
-      "matrix_sort_answer_criteria_width": 20,
-      "answer_data": [
-        {
-          "answer": "Peaceful",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Aggressive",
-          "html": false,
-          "points": 1,
-          "correct": true,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Calm",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        }
-      ]
-    },
-    {
-      "sort": 11,
-      "title": "Question: 11",
-      "question": "What is the synonym for 'melancholy'?",
+      "question": "What is the opposite of 'exuberant'?",
       "correct_msg": "",
       "incorrect_msg": "",
       "answer_type": "single",
@@ -470,7 +206,7 @@
           "sort_string_html": false
         },
         {
-          "answer": "Sad",
+          "answer": "Reserved",
           "html": false,
           "points": 1,
           "correct": true,
@@ -478,183 +214,7 @@
           "sort_string_html": false
         },
         {
-          "answer": "Indifferent",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        }
-      ]
-    },
-    {
-      "sort": 12,
-      "title": "Question: 12",
-      "question": "Which word means 'to give up a position, right, or power'?",
-      "correct_msg": "",
-      "incorrect_msg": "",
-      "answer_type": "single",
-      "correct_same_text": false,
-      "tip_enabled": false,
-      "tip_msg": "",
-      "points": 1,
-      "show_points_in_box": false,
-      "answer_points_activated": false,
-      "category_name": "",
-      "answer_points_diff_modus_activated": false,
-      "disable_correct": false,
-      "matrix_sort_answer_criteria_width": 20,
-      "answer_data": [
-        {
-          "answer": "Retain",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Abdicate",
-          "html": false,
-          "points": 1,
-          "correct": true,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Usurp",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        }
-      ]
-    },
-    {
-      "sort": 13,
-      "title": "Question: 13",
-      "question": "What is the meaning of 'exacerbate'?",
-      "correct_msg": "",
-      "incorrect_msg": "",
-      "answer_type": "single",
-      "correct_same_text": false,
-      "tip_enabled": false,
-      "tip_msg": "",
-      "points": 1,
-      "show_points_in_box": false,
-      "answer_points_activated": false,
-      "category_name": "",
-      "answer_points_diff_modus_activated": false,
-      "disable_correct": false,
-      "matrix_sort_answer_criteria_width": 20,
-      "answer_data": [
-        {
-          "answer": "Alleviate",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Worsen",
-          "html": false,
-          "points": 1,
-          "correct": true,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Simplify",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        }
-      ]
-    },
-    {
-      "sort": 14,
-      "title": "Question: 14",
-      "question": "Select the word that best fits the sentence: The manager’s ______ decision ended up costing the company a lot of money.",
-      "correct_msg": "",
-      "incorrect_msg": "",
-      "answer_type": "single",
-      "correct_same_text": false,
-      "tip_enabled": false,
-      "tip_msg": "",
-      "points": 1,
-      "show_points_in_box": false,
-      "answer_points_activated": false,
-      "category_name": "",
-      "answer_points_diff_modus_activated": false,
-      "disable_correct": false,
-      "matrix_sort_answer_criteria_width": 20,
-      "answer_data": [
-        {
-          "answer": "Prudent",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Impulsive",
-          "html": false,
-          "points": 1,
-          "correct": true,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Deliberate",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        }
-      ]
-    },
-    {
-      "sort": 15,
-      "title": "Question: 15",
-      "question": "Which word is closest in meaning to 'tenacious'?",
-      "correct_msg": "",
-      "incorrect_msg": "",
-      "answer_type": "single",
-      "correct_same_text": false,
-      "tip_enabled": false,
-      "tip_msg": "",
-      "points": 1,
-      "show_points_in_box": false,
-      "answer_points_activated": false,
-      "category_name": "",
-      "answer_points_diff_modus_activated": false,
-      "disable_correct": false,
-      "matrix_sort_answer_criteria_width": 20,
-      "answer_data": [
-        {
-          "answer": "Weak",
-          "html": false,
-          "points": 1,
-          "correct": false,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Persistent",
-          "html": false,
-          "points": 1,
-          "correct": true,
-          "sort_string": "",
-          "sort_string_html": false
-        },
-        {
-          "answer": "Lazy",
+          "answer": "Energetic",
           "html": false,
           "points": 1,
           "correct": false,
