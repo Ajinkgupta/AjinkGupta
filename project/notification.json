@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "New Aptitude Test Available",
+    "message": "A new aptitude test on Verbal Reasoning is now available. Test your skills now!",
+    "date": "2024-08-12T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Upcoming Webinar",
+    "message": "Join us for a free webinar on 'Cracking Logical Reasoning' this Saturday at 3 PM.",
+    "date": "2024-08-13T15:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "App Update",
+    "message": "We've just released version 2.0 with new features and improvements. Update now!",
+    "date": "2024-08-14T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Achievement Unlocked",
+    "message": "Congratulations! You've completed 100 practice questions. Keep up the good work!",
+    "date": "2024-08-15T18:45:00Z"
+  },
+  {
+    "id": 5,
+    "title": "New Video Tutorial",
+    "message": "Check out our latest video tutorial on 'Advanced Data Interpretation Techniques'.",
+    "date": "2024-08-16T14:00:00Z"
+  }
+]
